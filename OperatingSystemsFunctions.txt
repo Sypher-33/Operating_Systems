@@ -1,0 +1,3 @@
+Siri is a fun user interface option available for MacOS. I strongly believe it's the closest mainstream AI assistant concept with voice activated controls.
+Siri actually utilizes other applications on your OS and even goes online to bring up relevant information through a web search utilizing whatever default search
+engine you have set.
